@@ -1,4 +1,4 @@
-# molecular-dynamics-tutorials
+# mdmm-tutorials
 
 Hi all,
 
