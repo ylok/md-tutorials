@@ -1,0 +1,40 @@
+ &cntrl
+  imin=0,
+
+  irest=0, 
+  ntx=1,
+  ntwprt=0,
+  ntpr=500,
+  ntwr=500,
+  ntwx=500,
+  ioutfm=1,
+  iwrap=1,
+  ntf=2,
+
+  cut=9,
+  ntc=2,
+  ntb=1,
+  ntr=1,
+  restraintmask='(:1-468@CA,C,N)',
+  restraint_wt=4.0,
+
+  ntt=3,
+  gamma_ln=5,
+  tempi =0.0,
+  temp0=310.0, 
+  ig=-1,
+
+  ntp=0,
+
+  nstlim=500000,
+  dt=0.002, 
+
+  nmropt = 1,
+
+ &end
+ &wt TYPE='TEMP0',
+  istep1=0,
+  istep2=500000,
+  value1=0.0,
+  value2=310.0, /
+ &wt TYPE='END' /

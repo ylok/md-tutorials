@@ -1,0 +1,37 @@
+ &cntrl
+  imin=0,
+
+  irest=1,
+  ntx=5,
+  ntwprt=0,
+  ntpr=2000,
+  ntwr=2000,
+  ntwx=2000, 
+  ioutfm=1,
+  iwrap=1,
+  ntf=2,
+
+  cut=10,
+  ntc=2,
+  ntb=2,
+  ntr=0,
+
+
+
+  ntt=3, 
+  gamma_ln=5,
+  tempi=0.0,
+  temp0=310.0,
+  ig=-1,
+
+  ntp=1,
+  pres0=1.0,
+  taup=1.0, 
+  barostat=2,
+
+  nstlim=500000,
+  dt=0.002, 
+
+  nmropt=0,
+ &end
+

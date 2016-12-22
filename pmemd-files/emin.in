@@ -1,0 +1,14 @@
+ &cntrl
+  imin = 1, 
+
+  ncyc=1000,
+  irest=0,
+  ntx=1,
+  ntwprt=0,
+  ntpr=100,
+
+  cut=9,
+  ntb=1,  
+
+  maxcyc=10000, 
+/
